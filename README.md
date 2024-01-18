@@ -1,2 +1,2 @@
-# Mini_Web_Projects
-Here  i have developed some mini web projects using html, css
+# Stopwatch
+Here  i have developed a web stopwatch using html, css and javascript.
